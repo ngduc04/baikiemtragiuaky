@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01ef2784-eb75-4f00-8724-534dcdb1d88e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThiGiuaKi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau4/FictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau4/NonFictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau4/ScienceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau5/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau5/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau5/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dODXN5eENA547DkXxG8ATmDlhk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cau2.Main.executor": "Run",
+    "Application.Cau3.Main.executor": "Run",
+    "Application.Cau4.Main.executor": "Run",
+    "Application.Cau5.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Cau4.Main">
+    <configuration name="Cau2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau2.Main" />
+      <module name="ThiGiuaKi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau3.Main" />
+      <module name="ThiGiuaKi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau4.Main" />
+      <module name="ThiGiuaKi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau5.Main" />
+      <module name="ThiGiuaKi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau1.Main" />
+      <module name="ThiGiuaKi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cau4.Main" />
+        <item itemvalue="Application.Cau5.Main" />
+        <item itemvalue="Application.Cau3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Cau2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-b9b76bbb" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ef2784-eb75-4f00-8724-534dcdb1d88e" name="Changes" comment="" />
+      <created>1709870271941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709870271941</updated>
+      <workItem from="1709870273038" duration="894000" />
+      <workItem from="1709882254248" duration="5497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Cau4/Main.java</url>
+          <line>3</line>
+          <properties class="Cau4.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
