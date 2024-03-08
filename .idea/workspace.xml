@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01ef2784-eb75-4f00-8724-534dcdb1d88e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThiGiuaKi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau3/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau3/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau4/FictionBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau4/NonFictionBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau4/ScienceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau5/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau5/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau5/Moderator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau5/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="01ef2784-eb75-4f00-8724-534dcdb1d88e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -176,6 +142,7 @@
       <updated>1709870271941</updated>
       <workItem from="1709870273038" duration="894000" />
       <workItem from="1709882254248" duration="6301000" />
+      <workItem from="1709889122609" duration="350000" />
     </task>
     <servers />
   </component>
